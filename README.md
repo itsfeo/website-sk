@@ -6,7 +6,7 @@ A responsive, static wedding invitation site for the Poruwa ceremony. It uses pl
 - `index.html` — all wedding invitation content
 - `styles.css` — responsive styling
 - `script.js` — live countdown to the ceremony
-- `assets/engagement-2.jpg`, `engagement-5.jpg`, `engagement-6.jpg` — your photos, already converted to black and white
+- `assets/engagement-2.jpg`, `engagement-5.jpg`, `engagement-6.jpg`, `engagement-7.jpg` — your photos, already converted to black and white
 
 ## Wedding details currently included
 - Couple: Sri & Kavi
